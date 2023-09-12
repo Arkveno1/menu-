@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
 }
 .header {
-    background-image: url("C:/Users/777/Desktop/project/maket/img/bg.jpg");
+    background-image: url(./../img/bg.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -255,7 +255,7 @@ body {
 }
 
 .black-block {
-    background-image: url("C:/Users/777/Desktop/project/maket/img/black-bg.jpg");
+    background-image: url(./../img/black-bg.jpg);
     padding: 80px 0;
 }
 .left-title {
